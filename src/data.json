@@ -1,0 +1,117 @@
+{
+  "rooms": [
+    "110",
+    "111",
+    "112",
+    "113",
+    "114",
+    "115",
+    "116"
+  ],
+  "groups": [
+    "1a",
+    "1b",
+    "1c",
+    "2a",
+    "2b",
+    "3a",
+    "3b",
+    "4a",
+    "4b"
+  ],
+  "lectures": [
+    "biology",
+    "english",
+    "geography",
+    "history",
+    "math",
+    "physics"
+  ],
+  "teachers": [
+    "Bryant",
+    "Chamberlain",
+    "Harden",
+    "James",
+    "Jordan",
+    "O'Neal"
+  ],
+  "activities": [
+    {
+      "room": "110",
+      "group": "1a",
+      "lecture": "math",
+      "slot": 1,
+      "teacher": "Chamberlain"
+    },
+    {
+      "room": "112",
+      "group": "1b",
+      "lecture": "math",
+      "slot": 1,
+      "teacher": "James"
+    },
+    {
+      "room": "111",
+      "group": "1c",
+      "lecture": "biology",
+      "slot": 1,
+      "teacher": "Jordan"
+    },
+    {
+      "room": "113",
+      "group": "2a",
+      "lecture": "geography",
+      "slot": 1,
+      "teacher": "Harden"
+    },
+    {
+      "room": "110",
+      "group": "1a",
+      "lecture": "physics",
+      "slot": 6,
+      "teacher": "Chamberlain"
+    },
+    {
+      "room": "110",
+      "group": "3a",
+      "lecture": "english",
+      "slot": 8,
+      "teacher": "O'Neal"
+    },
+    {
+      "room": "112",
+      "group": "2b",
+      "lecture": "history",
+      "slot": 15,
+      "teacher": "Bryant"
+    },
+    {
+      "room": "111",
+      "group": "1c",
+      "lecture": "physics",
+      "slot": 21,
+      "teacher": "Harden"
+    },
+    {
+      "room": "115",
+      "group": "2a",
+      "lecture": "math",
+      "slot": 30,
+      "teacher": "Chamberlain"
+    },
+    {
+      "room": "113",
+      "group": "4a",
+      "lecture": "history",
+      "slot": 20,
+      "teacher": "Bryant"
+    },
+    {
+      "room": "113",
+      "group": "4b",
+      "lecture": "history",
+      "slot": 25,
+      "teacher": "Bryant"
+    }
+  ]
+}
